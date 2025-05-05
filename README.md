@@ -21,14 +21,6 @@
 pip install -r requirements.txt && streamlit run final.py
 ```
 
-## 🎥 Live Demo
-
-<div align="center">
-  <a href="https://your-demo-url.com">
-    <img src="https://via.placeholder.com/800x400?text=Click+to+View+Live+Demo" alt="Live Demo" width="800">
-  </a>
-</div>
-
 ## ✨ Key Features
 
 ### 🔐 Secure Authentication
