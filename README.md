@@ -1,4 +1,4 @@
-# 🚀 Sales Analytics Dashboard
+# 🚀 Sales Data Analytics and Dashboard System
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue" alt="Python Version">
@@ -82,10 +82,6 @@ pip install -r requirements.txt && streamlit run final.py
       <td align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite">
         <br>SQLite
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/plotly/plotly.js/master/dist/plotly-logo.png" width="40" height="40" alt="Plotly">
-        <br>Plotly
       </td>
     </tr>
   </table>
