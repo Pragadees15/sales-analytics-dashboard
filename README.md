@@ -181,9 +181,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- Pragadeeswaran K - Project Lead & Full Stack Developer
-- Shyam J - Backend Developer & Data Analyst
-- Karan Pillai - Frontend Developer & UI/UX Designer
+- Shyam J - Project Manager
+- Pragadeeswaran K - Scrum Master
+- Karan Pillai - Developer
 
 ## 🙏 Acknowledgments
 
