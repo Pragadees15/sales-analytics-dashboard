@@ -207,15 +207,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by Your Name</sub>
-  <br>
-  <a href="https://github.com/yourusername/sales-analytics-dashboard/stargazers">
-    <img src="https://img.shields.io/github/stars/yourusername/sales-analytics-dashboard?style=social" alt="GitHub Stars">
-  </a>
-  <a href="https://github.com/yourusername/sales-analytics-dashboard/network/members">
-    <img src="https://img.shields.io/github/forks/yourusername/sales-analytics-dashboard?style=social" alt="GitHub Forks">
-  </a>
-  <a href="https://github.com/yourusername/sales-analytics-dashboard/watchers">
-    <img src="https://img.shields.io/github/watchers/yourusername/sales-analytics-dashboard?style=social" alt="GitHub Watchers">
-  </a>
+  <sub>Built with ❤️ by Pragadeeswaran K, Shyam J, and Karan Pillai</sub>
 </div> 
