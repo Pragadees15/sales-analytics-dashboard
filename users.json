@@ -1,0 +1,14 @@
+{
+    "Pragadees": {
+        "password": "1234",
+        "role": "Admin"
+    },
+    "test": {
+        "password": "test",
+        "role": "User"
+    },
+    "Pragadeeswaran": {
+        "password": "1234",
+        "role": "User"
+    }
+}
