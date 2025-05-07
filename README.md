@@ -1,110 +1,101 @@
-# 🚀 Sales Data Analytics and Dashboard System
+# <kbd>🚀</kbd> `$ sales_analytics --dashboard --launch`
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3.8%2B-blue" alt="Python Version">
-  <img src="https://img.shields.io/badge/Streamlit-1.24.0-green" alt="Streamlit Version">
-  <img src="https://img.shields.io/badge/SQLite-3.0-lightgrey" alt="SQLite Version">
-  <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status">
-  <img src="https://img.shields.io/badge/Version-1.0.0-orange" alt="Version">
+
+```
+ _____  _____  _      _____  _____    _____  _   _  _____  _      __   __  _____  _  _____  _____   
+/  ___>/  _  \| |    | ____>/ ___/   /  _  \| \ | |/  _  \| |    \ \ / / |_   _|| |/  ___>/ ___/   
+|___  ||  _  || |    | <__ |___  \   |  _  ||  \| ||  _  || |     \ v /    | |  | ||___  ||___  \  
+<_____/|_| |_||_____||____/<_____/   |_| |_||_|\__||_| |_||_____|  |_|     |_|  |_|<_____/<_____/  
+                                                                                                  
+```
+
 </div>
 
 <div align="center">
-  <h3>📊 Transform Your Sales Data into Actionable Insights</h3>
-  <p>Powered by AI-driven analytics and real-time visualization</p>
+  
+`// Initializing dashboard boot sequence...`
+  
+![bootup](https://img.shields.io/badge/SYSTEM-ONLINE-brightgreen?style=for-the-badge)
+![version](https://img.shields.io/badge/VERSION-1.0.0-blue?style=for-the-badge)
+![status](https://img.shields.io/badge/STATUS-ACTIVE-orange?style=for-the-badge)
+
 </div>
 
-## 🎯 Quick Start
+<br>
 
-```bash
-# One-line installation
-pip install -r requirements.txt && streamlit run final.py
+```shell
+$ ./dashboard --help
+
+USAGE:
+  dashboard [OPTIONS] [COMMANDS]
+
+OPTIONS:
+  --version       Display version information
+  --help          Display this help message
+  
+COMMANDS:
+  install         Install dependencies and setup environment
+  run             Launch the dashboard application
+  demo            View demonstration video
+  features        Display list of available features
+  tech-stack      Show technical components
+  team            List team members and contributions
 ```
 
-## ✨ Key Features
-
-### 🔐 Secure Authentication
-- 🔒 Multi-factor authentication support
-- 👥 Role-based access control (Admin/User)
-- 🔄 Password reset with email verification
-- ⚡ Real-time session management
-- 📱 Mobile-responsive login interface
-
-### 📈 Interactive Dashboard
-- 📊 Real-time sales metrics with AI-powered insights
-- 🎨 Dynamic data visualization with Plotly
-- 🔍 Advanced filtering with natural language processing
-- 📱 Responsive design for all devices
-- 🌙 Dark/Light mode support
-
-### 📊 Advanced Analytics
-- 📈 Predictive sales forecasting with Prophet
-- 🗺️ Interactive regional heat maps
-- 📊 Product performance analytics
-- 💰 Profit margin optimization insights
-- 📉 Trend analysis with anomaly detection
-
-### 📋 Data Management
-- ⚡ Real-time CRUD operations
-- 📥 Bulk data import/export
-- 🔍 Advanced search and filtering
-- 📊 Data validation with AI assistance
-- 📈 Automated data cleaning
-
-### 📑 Report Generation
-- 📊 Customizable report templates
-- 📥 Multiple export formats (Excel, CSV, PDF)
-- ⏰ Automated report scheduling
-- 📈 Interactive visualizations
-- 📧 Email report delivery
-
-## 🛠️ Tech Stack
+> **`$ ./dashboard features`**
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python">
-        <br>Python
-      </td>
-      <td align="center">
-        <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="40" height="40" alt="Streamlit">
-        <br>Streamlit
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite">
-        <br>SQLite
-      </td>
-    </tr>
-  </table>
+
+| <pre>  🔐 SECURITY MODULE  </pre> | <pre>  📊 VISUALIZATION ENGINE  </pre> | <pre>  🧠 ANALYTICS CORE  </pre> |
+|:---------------:|:-------------------:|:---------------:|
+| <pre>• Multi-factor auth    <br>• Role-based access   <br>• Session management  </pre> | <pre>• Real-time metrics      <br>• Interactive charts     <br>• NLP-based filtering    </pre> | <pre>• Predictive models  <br>• Anomaly detection  <br>• Trend analysis     </pre> |
+
+| <pre>  💾 DATA PROCESSOR  </pre> | <pre>  📄 REPORT GENERATOR  </pre> | <pre>  📱 UI ADAPTER  </pre> |
+|:---------------:|:----------------:|:------------:|
+| <pre>• CRUD operations    <br>• Batch processing   <br>• Data validation    </pre> | <pre>• Custom templates     <br>• Multiple formats      <br>• Auto scheduling      </pre> | <pre>• Responsive design <br>• Theme switching    <br>• Cross-platform     </pre> |
+
 </div>
 
-## 🚀 Getting Started
+> **`$ ./dashboard install`**
 
-### Prerequisites
-- Python 3.8 or higher
-- pip (Python package manager)
-- Modern web browser
-
-### Installation
-
-1. Clone the repository:
 ```bash
-git clone https://github.com/Pragadees15/sales-analytics-dashboard.git
-cd sales-analytics-dashboard
+# Installation protocol initiated...
+$ git clone https://github.com/Pragadees15/sales-analytics-dashboard.git
+$ cd sales-analytics-dashboard
+$ pip install -r requirements.txt
+$ streamlit run final.py
+
+[INFO] Dashboard successfully deployed on http://localhost:8501
 ```
 
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
+> **`$ ./dashboard tech-stack --verbose`**
+
+<div align="center">
+
+```
+┌────────────────────────────────────────────────────────┐
+│                    SYSTEM ARCHITECTURE                  │
+├──────────────┬──────────────┬───────────┬──────────────┤
+│   FRONTEND   │   BACKEND    │  DATABASE │   ANALYTICS   │
+├──────────────┼──────────────┼───────────┼──────────────┤
+│  Streamlit   │   Python     │  SQLite   │    Plotly     │
+│  1.24.0      │   3.8+       │   3.0     │    Latest     │
+└──────────────┴──────────────┴───────────┴──────────────┘
 ```
 
-3. Run the application:
-```bash
-streamlit run final.py
-```
+</div>
 
-## 📁 Project Structure
+> **`$ ./dashboard demo`**
+
+<div align="center">
+  <video width="800" controls>
+    <source src="SEPM.mp4" type="video/mp4">
+    [ERROR] Video player not supported in your terminal
+  </video>
+</div>
+
+> **`$ ./dashboard project-structure --tree`**
 
 ```
 sales-analytics-dashboard/
@@ -119,81 +110,85 @@ sales-analytics-dashboard/
 └── README.md           # Project documentation
 ```
 
-## 🔧 Configuration
-
-The application uses the following configuration files:
-- `users.json`: Stores user authentication data
-- `sales_data.db`: SQLite database for sales records
-
-## 📊 Development Timeline
-
-### Sprint 1
-- Basic dashboard implementation
-- Initial data visualization
-- Simple user authentication
-
-### Sprint 2
-- Enhanced UI/UX
-- Advanced filtering capabilities
-- Improved data management
-
-### Sprint 3
-- Advanced analytics features
-- Comprehensive reporting system
-- Performance optimizations
-
-## 🎯 Features in Detail
-
-### Dashboard
-- 📊 Interactive sales metrics with real-time updates
-- 📈 Dynamic data visualization with Plotly
-- 🔍 Customizable date ranges and filters
-- 🌍 Regional performance analysis with heat maps
-- 📦 Product performance tracking with AI insights
-
-### Data Management
-- ✏️ Add/Edit/Delete sales records with validation
-- 📥 Bulk data operations with progress tracking
-- 🔍 Advanced search with natural language processing
-- 📊 Data validation with AI assistance
-- 📈 Automated data cleaning and formatting
-
-### Report Generation
-- 📑 Custom report templates with drag-and-drop
-- 📥 Multiple export formats (Excel, CSV, PDF)
-- ⏰ Automated scheduling with email delivery
-- 📊 Interactive visualizations with drill-down
-- 📈 AI-powered insights and recommendations
-
-## 🤝 Contributing
-
-We welcome contributions! Here's how you can help:
-
-1. 🍴 Fork the repository
-2. 🌿 Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. 💾 Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. 📤 Push to the branch (`git push origin feature/AmazingFeature`)
-5. 🔄 Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Authors
-
-- Shyam J - Project Manager
-- Pragadeeswaran K - Scrum Master
-- Karan Pillai - Developer
-
-## 🙏 Acknowledgments
-
-- Streamlit team for the amazing framework
-- Plotly for interactive visualizations
-- Prophet for time series forecasting
-- The open-source community for continuous support
-
----
+> **`$ ./dashboard milestones`**
 
 <div align="center">
-  <sub>Built with ❤️ by Pragadeeswaran K, Shyam J, and Karan Pillai</sub>
+
+```
+┌─ SPRINT 1 ───────────────┐  ┌─ SPRINT 2 ───────────────┐  ┌─ SPRINT 3 ───────────────┐  ┌─ SPRINT 4 ───────────────┐
+│                          │  │                          │  │                          │  │                          │
+│  [✓] Core UI Framework   │  │  [✓] Advanced UI         │  │  [✓] Advanced Analytics  │  │  [✓] AI Integration      │
+│  [✓] Basic Visualization │  │  [✓] Filter Systems      │  │  [✓] Reporting System    │  │  [✓] Performance Opt.    │
+│  [✓] User Authentication │  │  [✓] Data Management     │  │  [✓] Data Validation     │  │  [✓] Final Deployment    │
+│                          │  │                          │  │                          │  │                          │
+└──────────────────────────┘  └──────────────────────────┘  └──────────────────────────┘  └──────────────────────────┘
+```
+
+</div>
+
+> **`$ ./dashboard team --list`**
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/SHYAM140305.png" width="100px;" style="border-radius:50%"/><br/>
+      <sub><b>Shyam J</b></sub><br/>
+      <sub><code>Project Manager</code></sub><br/>
+      <a href="https://github.com/SHYAM140305"><kbd>@SHYAM140305</kbd></a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Pragadees15.png" width="100px;" style="border-radius:50%"/><br/>
+      <sub><b>Pragadeeswaran K</b></sub><br/>
+      <sub><code>Scrum Master</code></sub><br/>
+      <a href="https://github.com/Pragadees15"><kbd>@Pragadees15</kbd></a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/sam12fak.png" width="100px;" style="border-radius:50%"/><br/>
+      <sub><b>Karan Pillai</b></sub><br/>
+      <sub><code>Developer</code></sub><br/>
+      <a href="https://github.com/sam12fak"><kbd>@sam12fak</kbd></a>
+    </td>
+  </tr>
+</table>
+</div>
+
+> **`$ ./dashboard license --show`**
+
+```
+This project is licensed under the MIT License - see the LICENSE file for details.
+```
+
+> **`$ ./dashboard acknowledgements`**
+
+<div align="center">
+  
+```
+The following dependencies made this dashboard possible:
+
+  Streamlit          Interactive UI framework
+  Plotly             Data visualization library
+  Prophet            Time series forecasting
+  
+Special thanks to the open-source community for their continuous support.
+```
+
+</div>
+
+<div align="center">
+  
+```
+┌─ STATUS ────────────────────────────────────────────────────────────────┐
+│                                                                          │
+│  [SYSTEM]  Sales Analytics Dashboard running successfully                │
+│  [INFO]    Built with ❤️ by the team                                    │
+│  [ACTION]  Use --help command for available options                      │
+│                                                                          │
+└──────────────────────────────────────────────────────────────────────────┘
+```
+
+<br>
+
+<a href="#--sales_analytics---dashboard---launch"><kbd>↑ Return to command prompt ↑</kbd></a>
+
 </div> 
