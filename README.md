@@ -318,47 +318,7 @@ Meet the legendary crafters of this mystical dashboard...
 </div>
 
 <div align="right">
-  <a href="#chapter-6-the-gratitude">
-    <img src="https://img.shields.io/badge/CONTINUE-%E2%9E%A1%EF%B8%8F-673AB7?style=for-the-badge" />
-  </a>
-</div>
-
----
-
-<h2 id="chapter-6-the-gratitude">
-  <img src="https://img.shields.io/badge/06-C2185B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/THE_GRATITUDE-C2185B?style=for-the-badge" />
-</h2>
-
-We honor those whose magic helped us on our quest...
-
-<div align="center">
-  <h3>📜 The MIT License Scroll protects this creation</h3>
-  <p>See the <a href="LICENSE">LICENSE</a> scroll for the ancient texts</p>
-  
-  <h3>🙏 Acknowledgments to the Arcane Powers</h3>
-  <table>
-    <tr>
-      <td align="center">
-        <h4>Streamlit Wizards</h4>
-        <p>For the interface enchantments</p>
-      </td>
-      <td align="center">
-        <h4>Plotly Seers</h4>
-        <p>For the visualization crystals</p>
-      </td>
-      <td align="center">
-        <h4>Prophet Oracles</h4>
-        <p>For time-bending forecast magic</p>
-      </td>
-    </tr>
-  </table>
-  
-  <p>And to the vast open-source realm for their endless support</p>
-</div>
-
-<div align="right">
-  <a href="#-sales-analytics-dashboard-">
+  <a href="#readme">
     <img src="https://img.shields.io/badge/RETURN_TO_START-%E2%86%A9-FF4081?style=for-the-badge" />
   </a>
 </div>
