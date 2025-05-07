@@ -1,4 +1,4 @@
-# ✨ SALES ANALYTICS DASHBOARD ✨
+# ✨ SALES DATA ANALYTICS AND DASHBOARD SYSTEM ✨
 
 <div align="center">
   <img src="https://img.shields.io/badge/%F0%9F%9A%80-LAUNCH-FF5252?style=for-the-badge" alt="Launch">
