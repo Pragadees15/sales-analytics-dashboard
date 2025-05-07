@@ -1,4 +1,4 @@
-# ✨ SALES DATA ANALYTICS AND DASHBOARD SYSTEM ✨
+# ✨ SALES ANALYTICS DASHBOARD ✨
 
 <div align="center">
   <img src="https://img.shields.io/badge/%F0%9F%9A%80-LAUNCH-FF5252?style=for-the-badge" alt="Launch">
@@ -136,11 +136,8 @@ Behold the wonders that await as you explore our dashboard...
 </div>
 
 <div align="center">
-  <video width="800" controls>
-    <source src="SEPM.mp4" type="video/mp4">
-    Your viewing portal does not support video elements.
-  </video>
-  <p><em>Witness the dashboard in action through this magical viewing portal</em></p>
+
+ <a href="https://drive.google.com/file/d/1TWghh44RIT6S8zIcMTmhc5ONK6ielrkw/view?usp=sharing" target="_blank">click here to open the video directly</a>.</em></p>
 </div>
 
 <div align="right">
