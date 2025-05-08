@@ -137,7 +137,7 @@ Behold the wonders that await as you explore our dashboard...
 
 <div align="center">
 
- <a href="https://drive.google.com/file/d/1TWghh44RIT6S8zIcMTmhc5ONK6ielrkw/view?usp=sharing" target="_blank">click here to open the video directly</a>.</em></p>
+ <a href="https://drive.google.com/file/d/1epw5P5pksmrCtBNIWk098QEpQE0bVRYS/view" target="_blank">click here to open the video directly</a>.</em></p>
 </div>
 
 <div align="right">
